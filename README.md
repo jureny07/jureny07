@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @jureny07
-- 👀 I’m interested in 
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,MYSQL,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-jureny07/jureny07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je m'appelle **Jureny Amani**, développeur passionné par la technologie, le web et l'innovation. Curieux, autodidacte et motivé, je conçois des sites web modernes, des applications fonctionnelles et des solutions adaptées aux besoins des utilisateurs.
+
+💻 **Compétences principales :**  
+- Développement web : HTML, CSS, JavaScript, PHP, MySQL  
+- Création de sites e-commerce (front-end & back-end)  
+- Responsive design & expérience utilisateur  
+- Bonne connaissance des réseaux et des systèmes informatiques  
+
+🎯 **Objectifs :**  
+Continuer à apprendre, à construire des projets utiles, et évoluer dans le domaine du développement logiciel, de la cybersécurité ou de l’intelligence artificielle.
+
+📫 **Contact :**  
+- Email : jurenyamani43@email.com  
+- GitHub : [github.com/jureny](https://github.com/jureny07)  
+- LinkedIn : [linkedin.com/in/jurenyamani](https://linkedin.com/in/jurenyamani)
+
+---
+
+> "Le code est bien plus qu’un langage. C’est un outil pour façonner le futur."
