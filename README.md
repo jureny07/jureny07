@@ -2,7 +2,8 @@
 Je m'appelle **Jureny Amani**, développeur passionné par la technologie, le web et l'innovation. Curieux, autodidacte et motivé, je conçois des sites web modernes, des applications fonctionnelles et des solutions adaptées aux besoins des utilisateurs.
 
 💻 **Compétences principales :**  
-- Développement web : HTML, CSS, JavaScript  
+- Développement web : HTML, CSS, JavaScript 
+- Language de programmation : Python, C
 - Création de sites e-commerce (front-end) 
 - Responsive design & expérience utilisateur  
 - Bonne connaissance des réseaux et des systèmes informatiques  
