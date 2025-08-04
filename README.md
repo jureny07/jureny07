@@ -15,7 +15,7 @@ Continuer à apprendre, à construire des projets utiles, et évoluer dans le do
 - Email : jurenyamani43@email.com  
 - GitHub : [github.com/jureny07](https://github.com/jureny07)  
 - LinkedIn : [linkedin.com/in/jurenyamani](https://linkedin.com/in/jurenyamani)
--Instagram : [instagram.com/jureny07](https://www.instagram.com/jureny07?igsh=b2VxdDFvdTVkaDds)
+- Instagram : [instagram.com/jureny07](https://www.instagram.com/jureny07?igsh=b2VxdDFvdTVkaDds)
 
 ---
 
